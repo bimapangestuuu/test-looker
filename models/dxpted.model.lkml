@@ -10,4 +10,4 @@ max_cache_age: "1 hour"
 
 persist_with: dxpted_default_datagroup
 
-explore: dataset_output {}
+explore: demo_output_excel01 {}
